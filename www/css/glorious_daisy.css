@@ -1,0 +1,9 @@
+.parallax-container {
+  height: 240px;
+}
+.word-wrap {
+  word-wrap: break-word;
+}
+#toast-container {
+  z-index: 1004;
+}
